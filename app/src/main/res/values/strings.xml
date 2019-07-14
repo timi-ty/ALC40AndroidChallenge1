@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4.0: Android Challenge1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="button_1">About ALC</string>
+    <string name="button_2">My Profile</string>
+    <string name="imageDesc">My Picture</string>
+    <string name="name">Timilehin Tayo</string>
+    <string name="track">Track: Android</string>
+    <string name="Country">Country: Nigeria</string>
+    <string name="email">Email: timilehin.ty@gmail.com</string>
+    <string name="phone">Phone Number: 2347017667140</string>
+    <string name="slack">Slack Username: Timi</string>
+</resources>
